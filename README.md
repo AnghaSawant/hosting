@@ -1,1 +1,3 @@
-# hosting
+echo # hosting > README.md
+
+
